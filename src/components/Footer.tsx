@@ -19,8 +19,6 @@ const SOCIAL_LINKS = [
 const STATS = [
   { icon: MonitorPlay, value: '818 334 689', label: 'Caixas' },
   { icon: FileContract, value: '27 072 980', label: 'Contratos' },
-  { icon: Gift, value: '94 847 989', label: 'Aprimoramentos' },
-  { icon: Target, value: '17 817 896', label: 'Batalhas' },
   { icon: Users, value: '6 566 584', label: 'Usuários' },
   { icon: Activity, value: '3 644', label: 'On-line' },
 ];
